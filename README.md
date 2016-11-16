@@ -18,6 +18,7 @@ This week in 110 we learned about class systems in python, I have used class sys
 
 ## Week 4
 
+In 110 we studied class systems and use of dictionaries, we were also assigned Worksheet D that required us to make a noughts and crosses game using the skeleton program we were given. I managed to do this quite quickly and made a pull request. The feedback that was given showed how I could better my program. I took this into account and improved the code. The 120 session was a peer review on our tinkering graphics projects, together with a colleague we checked other groups code and commented ways to improve and fix the code. We also received feedback on our own code which we used to make adjustments to our program.   A problem this week was the stand-up meetings in slack, some didn’t take place at all and some had absent members. To address this I will make a timetable so everyone knows when the stand-up meeting are to take place.
 
 ## Week 5
 
