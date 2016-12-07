@@ -34,9 +34,7 @@ This week we had the final tinkering audio workshop, in this session my college 
 
 ## Week 11
 
-110 – mathematics of computing
-120 – tinkering audio peer review
-150 – game production sprint review
+In the mathematics of computing lecture I found some of the syntax hard to follow with how addresses work, for the first time I got one of the socrative questions wrong. I feel like I would be able to understand these concepts a lot easier while writing the code myself. So I plan to write the code myself to gain an understanding of how it works and when it could be useful. Our final sprint review we noticed that a lot of work still needed to be done and we needed to get our presentations ready. Time management was a big problem with this project so we had to put in a lot of last minute work over the weekend to get the game and presentation up to scratch. 
 
 ## Week 12
 
