@@ -38,7 +38,5 @@ In the mathematics of computing lecture I found some of the syntax hard to follo
 
 ## Week 12
 
-110 – research viva
-120 – programming viva
-150 – presenting to investors
+A problem that the viva sessions pulled up is my college not doing enough of the programming for the programming projects even during pair programming sessions it was me feeding them the code. After the viva session we decided to conduct some more pair programming on adding a decay function to our envelope but without me just telling them exactly what to write. I found it difficult to explain to my college how the code worked in a way he would understand, but after two hours we managed to complete the segment of code. This week we also had to present our game pitches, I feel like when I am presenting I speak too fast and need to take more time talking over and explaining the points in greater detail. Also I found myself reading from the slide which isn’t the best practice for pitching. To improve this I will have to practice my pitching and presentation skills.
 
