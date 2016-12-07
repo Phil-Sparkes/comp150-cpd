@@ -26,15 +26,11 @@ In 110 we did debugging for the worksheet we did the previous week, mine didn’
 
 ## Week 9
 
-110 worksheet E, assembly, interpreters and compilers
-120 Tinkering audio 2 – pure tones
-150 group project, branches, Travis
+This week we did the final worksheet for comp 110. The tasks on the worksheet were to do with assembly language and converting to python code. The most difficult part of this worksheet was to find an assembler for the final question. It took a few tries to find an assembler that worked. In the tinkering audio session we moved onto the second worksheet this one was about creating a pure tone. I am finding working with sound much more of a challenge than other tasks especially pure tones. I will work further at home to try and understand how to get pure tones to work. In the game project we introduced Travis to our github folders. My team could not get Travis to work at all. Further research into Travis is needed to be able to use this tool.
 
 ## Week 10
 
-110 – worksheet hand in introduction to c++
-120 – tinkering audio 3 envelopes  glitch music fixed
-150 – academic essay peer review
+This week we had the final tinkering audio workshop, in this session my college and I managed to implement an envelope function into our code. The envelope function produced a bug that made it so when shifting between attack and sustain time it would start the sound wave from 0 again causing a glitch in the music and an unpleasant sound. I managed to fix this when I got home by putting the attack and sustain times in the same for loop. For 150 we were conducting peer reviews on agile essays. I had a problem with my essay in which the references would not show up. To fix this I got the help of one of my peers and asked how he managed it and then did the same for my essay.
 
 ## Week 11
 
