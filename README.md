@@ -40,3 +40,11 @@ In the mathematics of computing lecture I found some of the syntax hard to follo
 
 A problem that the viva sessions pulled up is my college not doing enough of the programming for the programming projects even during pair programming sessions it was me feeding them the code. After the viva session we decided to conduct some more pair programming on adding a decay function to our envelope but without me just telling them exactly what to write. I found it difficult to explain to my college how the code worked in a way he would understand, but after two hours we managed to complete the segment of code. This week we also had to present our game pitches, I feel like when I am presenting I speak too fast and need to take more time talking over and explaining the points in greater detail. Also I found myself reading from the slide which isn’t the best practice for pitching. To improve this I will have to practice my pitching and presentation skills.
 
+
+
+## Summary
+
+To work with computers preferably in something that could hold my interest like making games.
+Learning how to program, plan to make a portfolio of all coding and computing related projects I have worked on, learning about the games industry and the agile ways. I will be volunteering for computing related events to acquire different skills and contacts in the industry.
+Some of the challenges I have come across are: explaining code to others, time management, inefficient coding practices, presenting pitches and problems with Github.
+I would like to teach someone new to code how to make a simple game using python in a week long course. Setting up a work schedule for the first two weeks in which I do the minimum of nine hours a week. I will read the book on clean code over Christmas and try and implement some of the techniques into my new programs. Will spend one day videoing myself doing a presentation for a game idea and then review how I did and repeat to improve my pitching skills. For the problems with Github I will learn how to use Github properly during the first two weeks. I will learn how to use Travis properly and how to implement different branches.
