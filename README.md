@@ -1,7 +1,5 @@
 # comp150-cpd
 
-Weekly journal goes here. Reflect.
-
 ## Week 4
 
 I am happy with my progress so far, I can comprehend most of the ideas that have been put forth and finding the programming tasks to be a good level of challenge.
@@ -44,6 +42,10 @@ A problem that the viva sessions pulled up is my college not doing enough of the
 
 ## Summary
 
+To work with computers preferably in something that could hold my interest like making games.
+Learning how to program, plan to make a portfolio of all coding and computing related projects I have worked on, learning about the games industry and the agile ways. I will be volunteering for computing related events to acquire different skills and contacts in the industry.
+Some of the challenges I have come across are: explaining code to others, time management, inefficient coding practices, presenting pitches and problems with Github.
+To help with explaining code to others I would like to teach someone how to make a simple game using python. For the time management I plan on making a schedule that I will follow when we get back after Christmas break. To help make my code more efficient I will read the book on “Clean Code” over Christmas. For improving my presentation skills I plan on videoing myself doing a presentation and then self-evaluating my performance to see how I could improve it. Finally for the Github I plan on learning how to implement Travis and branching systems correctly.
 
 ## Five key skills
 
