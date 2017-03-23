@@ -1,4 +1,4 @@
-# comp150-cpd
+# comp160-cpd
 
 ## Week 1 - 23rd Jan
 
