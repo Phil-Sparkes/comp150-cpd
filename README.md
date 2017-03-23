@@ -30,3 +30,29 @@ This week we had two guest lectures, the first being on using algorithms in phys
 ## Week 8 - 13th Mar
 
 
+
+# Career goals and progress
+My career goal is to work in the computer industry preferably in something that could hold my interest like developing games. During my time at university I have made progress towards this goal. Learning how to program on both python and C++. Outside of the curriculum I have been working on my own game projects making a 3D fighter pilot game to improve my skills in unreal and other aspects of game development. I have also been collaborating with a business student taking the role of chief technology officer and doing some programming for him. I have been putting together a portfolio with all my past work in so that it can easily show case my skills to future employers.
+
+
+# Five challenges
+
+
+## Communication with new people
+A challenge I found during the ideation stage of the big game project and during the game jam is being able to communicate my ideas when with a group of new people. To improve team communication skill next project, I will make sure that I put forward at least two ideas. 
+
+
+## Benefits of C++ when using unreal
+Something that I found this year was that during the project I was mostly using blueprints. I would like to use C++ more while using the unreal engine but not sure what the benefits are using it over blueprints. I am working on a side project over summer making an unreal game. I will try and add as much C++ functionality to this as possible. After the project, I will do a review and see which parts of the C++ code benefited the project over using blueprints.
+
+
+## Not knowing hand in dates for drafts
+Another challenge I encountered this year was discovering that I had hand in dates for drafts too close to the actual hand in. I would like to know when these hand in dates are before it gets too late. My plan to combat this is to go through my modules looking at what is happening in the next sessions. Once I know this I will put it on my calendar. I will measure the success of this throughout the year, if I am aware of all hand in dates at least a week before it’s due then I will consider it a success.
+
+
+## Attending stand up meetings
+I have missed some of the daily stand-up meetings this year for our group project. This is in part due to not knowing when they are. I plan to address this for the next project by putting the times on my google calendar that I have on my phone so I can easily see when I have them. I will do a review after the first few weeks to check if it working as planned.
+
+
+## Essay questions
+During this course we are required to write academic essays, these essays require us to come up with our own question. Being able to propose a good essay question will make writing the essay much simpler. To be able to devise a good question I will do research on how others manage to produce them. This will be online research looking at articles and pages providing ideas on how to come up with a question. I will do this over summer and practice making three essay questions for different topics. To measure this, I will ask someone in academia to access my questions and give me feedback.
